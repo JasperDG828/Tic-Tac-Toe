@@ -9,7 +9,7 @@ Check it out
 #### Starting the game:
 download the file you want(TicTacToe_dutch.py / TicTacToe_english.py) and move it to where you like it to be.
 Then, right-click on the file and if you have python installed(If you haven't already: [https://www.python.org/downloads/](https://www.python.org/downloads/)), the option 'edit with IDLE' will appear(normally as 2nd option). If there is an submenu, click on the python version you like.
-![Image 1](https://raw.githubusercontent.com/JasperDG828/Tic-Tac-Toe/master/ManualPic1.jpg?token=AO3SJQXXVNVHDHOMAB47LEK7B7SAY)
+![Image 1](https://raw.githubusercontent.com/JasperDG828/Tic-Tac-Toe/master/ManualPic1.jpg?token=AO3SJQQH37UL3R765DCGBQS7B7TUK)
 
 If you're in python, press F5 or go to Run>Run module.
 #### playing the game:
