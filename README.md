@@ -20,3 +20,6 @@ after the board is finished loading, you will be prompted in the shell to give t
 
 
 #### RECOMMENDED VERSION OF PYTHON: 3.7(32-bit)
+
+##### By Jasper De Gussemé
+##### Questions: contact.jdgbe@yahoo.com
