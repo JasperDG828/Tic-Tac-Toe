@@ -16,11 +16,7 @@ If you're in python, press F5 or go to Run>Run module.
 The python-shell will appear, and eventually the board.
 after the board is finished loading, you will be prompted in the shell to give the number that corresponds to the spot of your choice, then the same for the other team. The goal of the game is getting 3 in a row: diagonal, vertical or horizontal. When somebody won, the shell will tell you who won and stop the game. You can just close the window.
 
+![Image 2](https://raw.githubusercontent.com/JasperDG828/Tic-Tac-Toe/master/ManualPic2.jpg?token=AO3SJQQWNARLUGBN6KJ5R7K7B7UEK)
+
 
 #### RECOMMENDED VERSION OF PYTHON: 3.7(32-bit)
-
- ## Nederlands:
-#### Ik heb het spel Tic Tac Toe gemaakt in python met de 'turtle'-module.
-#### Dus, probeer het eens
-
-#### AANBEVOLEN PYTHONVERSIE: 3.7(32-bit)
