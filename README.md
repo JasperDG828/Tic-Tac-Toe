@@ -14,7 +14,7 @@ Then, right-click on the file and if you have python installed(If you haven't al
 If you're in python, press F5 or go to Run>Run module.
 #### playing the game:
 The python-shell will appear, and eventually the board.
-after the board is finished loading, you will be prompted in the shell to give the number that corresponds to the spot of your choice, then the same for the other team. The goal of the game is getting 3 in a row: diagonal, vertical or horizontal. When somebody won, the shell will tell you who won and stop the game. You can just close the window.
+after the board is finished loading, you will be prompted in the shell to give the number that corresponds to the spot of your choice, then the same for the other team. The goal of the game is getting 3 in a row: diagonally, vertically or horizontally. When somebody has won, the shell will tell you who won and stop the game. You can just close the window.
 
 ![Image 2](https://GitHub-Files-JDG.jasperdg.repl.co/tictactoe/ManualPic2.jpg)
 
