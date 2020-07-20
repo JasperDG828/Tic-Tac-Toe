@@ -1,7 +1,6 @@
 # Tic-Tac-Toe
 Tic Tac Toe in python
 
- ## English:
   So, i made the game Tic Tac Toe in python with the 'turtle'-module.
 Check it out
 
@@ -17,6 +16,9 @@ The python-shell will appear, and eventually the board.
 after the board is finished loading, you will be prompted in the shell to give the number that corresponds to the spot of your choice, then the same for the other team. The goal of the game is getting 3 in a row: diagonally, vertically or horizontally. When somebody has won, the shell will tell you who won and stop the game. You can just close the window.
 
 ![Image 2](https://GitHub-Files-JDG.jasperdg.repl.co/tictactoe/ManualPic2.jpg)
+
+### Feature in V2:
+#### Detects Draw
 
 
 #### RECOMMENDED VERSION OF PYTHON: 3.7(32-bit)
