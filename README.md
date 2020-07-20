@@ -1,11 +1,16 @@
 # Tic-Tac-Toe
 Tic Tac Toe in python
 
-  So, i made the game Tic Tac Toe in python with the 'turtle'-module.
-Check it out
+ So, i made the game Tic Tac Toe in python with the 'turtle'-module. Check it out
+
+------------------------
 
 ### How to play the game:
-#### Starting the game:
+#### Starting the game(OPTION1):
+download the file you want(TicTacToe_dutch.py / TicTacToe_english.py) and move it to where you like it to be.
+Then, just double-click on the file.
+ - If nothing happens or the system prompts you to choos an app, you'll probably need to install python via [https://www.python.org/downloads/](https://www.python.org/downloads/))
+#### Starting the game(OPTION2):
 download the file you want(TicTacToe_dutch.py / TicTacToe_english.py) and move it to where you like it to be.
 Then, right-click on the file and if you have python installed(If you haven't already: [https://www.python.org/downloads/](https://www.python.org/downloads/)), the option 'edit with IDLE' will appear(normally as 2nd option). If there is an submenu, click on the python version you like.
 ![Image 1](https://GitHub-Files-JDG.jasperdg.repl.co/tictactoe/ManualPic1.jpg)
@@ -16,12 +21,14 @@ The python-shell will appear, and eventually the board.
 after the board is finished loading, you will be prompted in the shell to give the number that corresponds to the spot of your choice, then the same for the other team. The goal of the game is getting 3 in a row: diagonally, vertically or horizontally. When somebody has won, the shell will tell you who won and stop the game. You can just close the window.
 
 ![Image 2](https://GitHub-Files-JDG.jasperdg.repl.co/tictactoe/ManualPic2.jpg)
-
-### Feature in V2:
-#### Detects Draw
-
+> If you use option 1, the shell will look like cmd
 
 #### RECOMMENDED VERSION OF PYTHON: 3.7(32-bit)
+------------------------------------------------------
 
-##### By Jasper De Gussemé
-##### Questions: contact.jdgbe@yahoo.com
+#### Feature in V2:
+##### Detects Draw
+-----------------------------------------------------
+
+> By Jasper De Gussemé, 
+> Questions: contact.jdgbe@yahoo.com
